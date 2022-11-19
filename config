@@ -1,0 +1,5 @@
+#!/bin/bash
+export HOST="127.0.0.1"
+export PORT="80"
+export DIR="tpm"
+export EDIR="/home/user/Desktop/"
